@@ -14,7 +14,7 @@ também a implementação de algoritmos de ML para previsão, classificação e 
   - **Machine Learning:** ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   - **Machine Learning Deployment:** ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
 
-# Projetos de Data Science
+# Projetos de Data Science & Analytics
 **[Projeto de Insights - House Rocket](https://github.com/GonzagaLucas/Insight-Project-House-Rocket)**
 
 Esse projeto teve como objetivo usar dados de imóveis e suas características para identificar as melhores oportunidades de revenda, além de traçar o melhor 
