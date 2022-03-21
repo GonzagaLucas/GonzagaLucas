@@ -24,8 +24,6 @@ através do Heroku para um rápido acesso as informações dos imóveis e do pro
 
 **[Projeto de Previsão de Vendas com Machine Learning - Rossmann](https://github.com/GonzagaLucas/Rossmann-Sales-Forecast)**
 
-Projeto de previsão de vendas para as próximas 6 semanas de uma
-
 Projeto cujo objetivo é realizar uma previsão de vendas de forma assertiva para as próximas 6 semanas de cada uma das lojas, para realizar esse projeto, utilizamos algoritmos de Machine Learning
 juntamente de técnicas de regressão, além de realizarmos as previssões de forma assertiva, também realizamos uma construção de uma API que pode ser requisitada diretemente por um BOT do 
 Telegram, basta informar o número da loja desejada que o BOT responde com a previsão de vendas para as próximas 6 semanas da respectiva loja.
