@@ -2,13 +2,16 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-9634ba139/)    [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasr.alves10@gmail.com)
 
 ## Sobre mim
+***Cientista de Dados***
 
-Me chamo Lucas Rodrigues, sou Cientista de Dados, atualmente desenvolvo projetos de estudos práticos que abordam problemas reais, em tais projetos, passo por todas as etapas,
-como por exemplo: extração e coleta dos dados, limpeza e transformação dos dados, feature engineering, analise exploratória dos dados, modelagem e preparação para implementação de algoritmos de ML e 
-também a implementação de algoritmos de ML para previsão, classificação e clusterização.
+Me chamo Lucas Rodrigues, sou Cientista de Dados, estudo Machine Learning desde 2021, com experiência em projetos práticos de ciência de dados.
+
+Tenho domínio de todas as etapas de um projeto de ciência de dados, desde a coleta e extração desses dados, até a parte final de colocá-lo em produção.
+
+Já desenvolvi soluções para importantes problemas como previsões de vendas, recomendações de investimentos imobiliários, atualmente estou desenvolvendo projetos para detecção de doenças e rankeamento de clientes.
 
 ## Principais Ferramentas
-  - **Coleta de Dados:**  ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  - **Coleta de Dados:**  ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
   - **Processamento e Análise dos Dados:** ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - **Desenvolvimento:** ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   - **Machine Learning:** ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
