@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-Me chamo Lucas Rodrigues, sou estudante de Ciência de Dados, atualmente desenvolvo projetos de estudos práticos que abordam problemas reais, em tais projetos, passo por todas as etapas,
+Me chamo Lucas Rodrigues, sou Cientista de Dados, atualmente desenvolvo projetos de estudos práticos que abordam problemas reais, em tais projetos, passo por todas as etapas,
 como por exemplo: extração e coleta dos dados, limpeza e transformação dos dados, feature engineering, analise exploratória dos dados, modelagem e preparação para implementação de algoritmos de ML e 
 também a implementação de algoritmos de ML para previsão, classificação e clusterização.
 
