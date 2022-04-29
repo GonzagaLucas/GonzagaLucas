@@ -2,7 +2,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-9634ba139/)    [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasr.alves10@gmail.com)
 
 ## Sobre mim
-***Cientista de Dados***
+**Cientista de Dados**
 
 Me chamo Lucas Rodrigues, sou Cientista de Dados com experiência em projetos práticos de ciência de dados.
 
