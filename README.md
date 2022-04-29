@@ -4,9 +4,9 @@
 ## Sobre mim
 ***Cientista de Dados***
 
-Me chamo Lucas Rodrigues, sou Cientista de Dados, estudo Machine Learning desde 2021, com experiência em projetos práticos de ciência de dados.
+Me chamo Lucas Rodrigues, sou Cientista de Dados com experiência em projetos práticos de ciência de dados.
 
-Tenho domínio de todas as etapas de um projeto de ciência de dados, desde a coleta e extração desses dados, até a parte final de colocá-lo em produção.
+Tenho domínio de todas as etapas de um projeto de ciência de dados, desde o entendimento do problema de negócio, coleta e extração desses dados, até a parte final de colocá-lo em produção e gerar retorno financeiro a empresa
 
 Já desenvolvi soluções para importantes problemas como previsões de vendas, recomendações de investimentos imobiliários, atualmente estou desenvolvendo projetos para detecção de doenças e rankeamento de clientes.
 
