@@ -6,7 +6,7 @@
 
 Me chamo Lucas Rodrigues, sou Cientista de Dados com experiência em projetos práticos de ciência de dados.
 
-Tenho domínio de todas as etapas de um projeto de ciência de dados, desde o entendimento do problema de negócio, coleta e extração desses dados, até a parte final de colocá-lo em produção e gerar retorno financeiro a empresa
+Tenho domínio de todas as etapas de um projeto de ciência de dados, desde o entendimento do problema de negócio, coleta e extração desses dados, feature engineering, modelagem dos dados, construçãode algoritmos de machine learning perfomáticos, até a parte final de colocá-lo em produção e gerar retorno financeiro a empresa.
 
 Já desenvolvi soluções para importantes problemas como previsões de vendas, recomendações de investimentos imobiliários, atualmente estou desenvolvendo projetos para detecção de doenças e rankeamento de clientes.
 
