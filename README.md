@@ -30,6 +30,12 @@ através do Heroku para um rápido acesso as informações dos imóveis e do pro
 Projeto cujo objetivo é realizar uma previsão de vendas de forma assertiva para as próximas 6 semanas de cada uma das lojas, para realizar esse projeto, utilizamos algoritmos de Machine Learning
 juntamente de técnicas de regressão, além de realizarmos as previssões de forma assertiva, também realizamos uma construção de uma API que pode ser requisitada diretemente por um BOT do 
 Telegram, basta informar o número da loja desejada que o BOT responde com a previsão de vendas para as próximas 6 semanas da respectiva loja.
+
+**[Projeto de Rankeamento de Clientes (LTR) - Insurance All ](https://github.com/GonzagaLucas/Health-Insurance-Cross-Sell)**
+
+Projeto cujo objetivo foi identificar e rankear clientes de acordo com a probabilidade de compra de um produto, para que os clientes com maior probabilidade de compra aparecessem no topo da lista, e clientes desinteressados aparecessem ao final da lista, para isso foram realizados estudos dentro do conjunto de dados, para que fosse maximizado os resultados, resultando assim em agilidade no processo de ligação e fechamento de novos negócios, e reduzindo o tempo gasto da empresa com clientes sem interesse, com o algoritmo fazendo o rankeamento tivemos um resultado quase 3x melhor do que apenas com um modelo aleatório de abordagem.
+
+
 <!---
 GonzagaLucas/GonzagaLucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
